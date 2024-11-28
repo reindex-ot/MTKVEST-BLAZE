@@ -1,6 +1,8 @@
 
 ![Untitled-2](https://github.com/user-attachments/assets/53bfc9b4-78a6-404c-8386-e506b6a8d2f0)
 
+[日本語](./README_JP.md)
+
 **Used :** `su -c MTKV`
 on any Terminal/Termux to settings Advanced Settings
 
